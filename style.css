@@ -73,8 +73,8 @@
   }
   
   .slide {
-    width: 20%;
-    height: 100%;
+    width: 200%;
+    height: 200%;
     position: relative;
     flex-shrink: 0; 
   }
